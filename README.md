@@ -11,7 +11,7 @@ A blog application designed using Figma and built with Angular and Firebase. The
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
+- [Development Server](#development-server)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -28,9 +28,9 @@ A blog application designed using Figma and built with Angular and Firebase. The
 - Delete Posts: Authenticated users can delete their blog posts.
 - Responsive Design: The app is fully responsive and optimized for various screen sizes.
 
-## Demo
+## Development server
 
-A live demo of the app can be found [here](link-to-live-demo).
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Technologies Used
 
